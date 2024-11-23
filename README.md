@@ -28,7 +28,7 @@ The message bodies will be tokenized, reduced to root forms, and then combined w
 #### Results
 What did your research find?
 
-
+The results indicate Logistic Regression and DecisionTree Classifiers were able to achieve 98% accuracy on the test datasets, showing reliable phishing email classification can be achieved.
 
 #### Next steps
 What suggestions do you have for next steps?
@@ -39,7 +39,7 @@ Another possible step, which lies outside the scope of the given dataset, is to 
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](https://github.com/tshih94/PhishingEmailClassification/blob/main/phishmodeling.ipynb)
 
 
 ##### Contact and Further Information
