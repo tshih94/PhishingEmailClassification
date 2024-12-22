@@ -42,7 +42,7 @@ Another possible step, which lies outside the scope of the given dataset, is to 
 #### Outline of project
 
 - [Link to notebook 1](https://github.com/tshih94/PhishingEmailClassification/blob/main/phishmodeling.ipynb)
-
+- [Link to notebook 2](https://github.com/tshih94/PhishingEmailClassification/blob/main/phishmodeling-final.ipynb)
 
 ##### Contact and Further Information
 Tinyen Shih
